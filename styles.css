@@ -1,0 +1,17 @@
+p{color:white}
+table{background-color:#004953}
+table{color:white}
+table{border:solid #bffed0}
+body{background-color:#003314}
+figcaption{color:white}
+table, th, td{border:1px solid #bffed0;}
+table{width:100%}
+th{text-align:center;} 
+td{text-align:left;}
+td{height:50px;
+  vertical-align:bottom;}
+tr:hover{background-color:#008080}
+h2{font-family:"Brush Script MT"}
+p{font-family:"courier new"}
+table{font-family:"courier new"}
+h2{color:white}
